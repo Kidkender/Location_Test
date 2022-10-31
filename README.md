@@ -18,7 +18,7 @@
 <meta name="twitter:card" content="summary">
 <meta property="twitter:title" content="duchuu260201">
 <script type="application/ld+json">
-{"headline":"duchuu260201","url":"https://kidkender.github.io/duchuu260201/","@type":"WebSite","name":"duchuu260201","@context":"https://schema.org"}</script>
+{"headline":"duchuu260201","url":"https://kidkender.github.io/Location_Test/","@type":"WebSite","name":"duchuu260201","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
   </head>
